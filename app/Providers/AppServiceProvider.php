@@ -1,7 +1,7 @@
 namespace App\Providers;
 
 use Illuminate\Support\ServiceProvider;
-use Illuminate\Support\Facades\URL; // Jangan lupa tambahkan baris ini!
+use Illuminate\Support\Facades\URL; // Force rebuild server Linux
 
 class AppServiceProvider extends ServiceProvider
 {
